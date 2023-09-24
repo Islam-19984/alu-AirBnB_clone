@@ -99,7 +99,7 @@
 .guest_icon {
   width: 50px;
   height: 50px;
-  background-image: url(../images/guest.png);
+  background-image: url(../images/icon_group.png);
   background-size: contain;
   background-repeat: no-repeat;
   display: flex;
@@ -113,7 +113,7 @@
   margin: 0;
   width: 60px;
   height: 60px;
-  background-image: url(../images/bedroom.png);
+  background-image: url(../images/icon_bed.png);
   background-size: contain;
   background-repeat: no-repeat;
   display: flex;
@@ -124,7 +124,7 @@
 .bath_icon {
   width: 60px;
   height: 60px;
-  background-image: url(../images/bathroom.png);
+  background-image: url(../images/icon_bath.png);
   background-size: contain;
   background-repeat: no-repeat;
   display: flex;
